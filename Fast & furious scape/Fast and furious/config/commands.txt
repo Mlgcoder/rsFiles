@@ -1,0 +1,1324 @@
+Aintaro command: mypk
+Aintaro command: npc 1560
+Aintaro command: revenantmini
+Aintaro command: empty
+Aintaro command: pickup 7001 10000
+Aintaro command: npc 75
+Aintaro command: pickup 7001 1000
+Aintaro command: npc 50
+Aintaro command: npc 50
+Aintaro command: empty
+Aintaro command: npcreset
+Aintaro command: pickup 8003 1
+Aintaro command: pickup 7001 1
+Aintaro command: pickup 14498 1
+Aintaro command: pickup 14498 10000
+Aintaro command: pickup 14498 100000
+Aintaro command: pickup 14498 100
+Aintaro command: npc 75
+Aintaro command: pickup 6522 1000
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: gfx 18
+Aintaro command: gfx 19
+Aintaro command: gfx 249
+Aintaro command: npc 75
+Aintaro command: gfx 166
+Aintaro command: gfx 165
+Aintaro command: gfx 164
+Aintaro command: gfx 163
+Aintaro command: gfx 162
+Aintaro command: gfx 160
+Aintaro command: gfx 158
+Aintaro command: gfx 157
+Aintaro command: emote 600
+Aintaro command: emote 50
+Aintaro command: npc 75
+Aintaro command: pickup 7000 1
+Aintaro command: pickup 7002 1
+Aintaro command: emote 403
+Aintaro command: gfx 75
+Aintaro command: gfx 157
+Aintaro command: pickup 13665 1
+Aintaro command: empty
+Aintaro command: pickup 3122 1
+Aintaro command: pickup 2621 1
+Aintaro command: pickup 6522 1000
+Aintaro command: pickup 1645 1
+Aintaro command: revenantmini
+Aintaro command: mypos
+Aintaro command: emote 141
+Aintaro command: tele 2939 4636
+Aintaro command: tele 2639 4636
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: npc 2892
+Aintaro command: npc 3346
+Aintaro command: npc 3500
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: tele 2847 9761
+Aintaro command: tele 2843 9757
+Aintaro command: tele 1893 5319
+Aintaro command: pickup 464 1
+Aintaro command: pickup 2034 1
+Aintaro command: pickup 391 1
+Aintaro command: pickup 7100 1
+Aintaro command: emote 1501
+Aintaro command: emote 1501
+Aintaro command: gfx 83
+Aintaro command: gfx 471
+Aintaro command: mypk
+Aintaro command: ypk
+Aintaro command: mypk
+Aintaro command: mypk
+Aintaro command: mypk
+Aintaro command: pkstuff
+Aintaro command: pkrewards
+Aintaro command: command
+Aintaro command: commands
+Aintaro command: talkon buy food
+Aintaro command: pctime
+Aintaro command: players
+Aintaro command: vesta
+Aintaro command: pickup 1050 1
+Aintaro command: pkrewardz
+Aintaro command: npc 75
+Aintaro command: pickup 14492
+Aintaro command: pickup 14492 1
+Aintaro command: pickup 14430 1
+Aintaro command: pickup 553 100
+Aintaro command: pickup 7009 1
+Aintaro command: pickup 7009 1
+Aintaro command: resetcw
+Aintaro command: cwreset
+Aintaro command: pickup 8100 1
+Aintaro command: pickup 14430 1
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: pickup 14498 100
+Aintaro command: pickup 2550 1
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 1594
+Aintaro command: npc 75
+Aintaro command: npc 1493
+Aintaro command: npc 1494
+Aintaro command: npc 1496
+Aintaro command: npc 1596
+Aintaro command: npc 1594
+Aintaro command: empty
+Aintaro command: xteletome test
+Aintaro command: combat 3
+Aintaro command: xteletome test
+Aintaro command: mypk
+Aintaro command: xteletome test
+Aintaro command: xteletome test
+Aintaro command: combat 3
+Aintaro command: gfx 156
+Aintaro command: gfx 155
+Aintaro command: gfx 158
+Aintaro command: gfx 157
+Aintaro command: gfx 157
+Aintaro command: xteletome test
+Aintaro command: xteletome test
+Aintaro command: tele 2911 9831
+Aintaro command: pickup 590 1
+Aintaro command: object 4421
+Aintaro command: pickup 4045
+Aintaro command: gfx 176
+Aintaro command: gfx 176
+Aintaro command: pickup 526 1
+Aintaro command: object 4422
+Aintaro command: pickup 4045 1
+Aintaro command: object 6951
+Aintaro command: object 6951
+Aintaro command: object 6951
+Aintaro command: pickup 590 1
+Aintaro command: pickup 4045 10
+Aintaro command: object 4421
+Aintaro command: object 4422
+Aintaro command: object 4421
+Aintaro command: pickup 4045 1
+Aintaro command: pickup 4045 1
+Aintaro command: pickup 4045 1
+Aintaro command: pickup 4045 1
+Aintaro command: object 4422
+Aintaro command: noclip
+Aintaro command: pickup 4045 1
+Aintaro command: object 4422
+Aintaro command: pickup 4045 1
+Aintaro command: pickup 4045 1
+Aintaro command: npc 75
+Aintaro command: pickup 8002 1
+Aintaro command: npc 50
+Aintaro command: spec
+Aintaro command: tele 3490 3090
+Aintaro command: tele 3100 3957
+Aintaro command: tele 2926 3482
+Aintaro command: tele 2207 4836
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: run
+Aintaro command: noclip
+Aintaro command: npc 2713
+Aintaro command: npc 2709
+Aintaro command: npc 2680
+Aintaro command: npc 3642
+Aintaro command: npc 3612
+Aintaro command: npcreset
+Aintaro command: npc 3805
+Aintaro command: npc 3626
+Aintaro command: npc 660
+Aintaro command: npc 3655
+Aintaro command: npcreset
+Aintaro command: npc 3666
+Aintaro command: npcreset
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: npc 3700
+Aintaro command: npc 3701
+Aintaro command: npc 3702
+Aintaro command: npc 3703
+Aintaro command: npc 3704
+Aintaro command: npc 3706
+Aintaro command: npc 3710
+Aintaro command: npc 3720
+Aintaro command: npc 3780
+Aintaro command: npc 3800
+Aintaro command: npc 3900
+Aintaro command: npc 3899
+Aintaro command: npc 3850
+Aintaro command: npc 3760
+Aintaro command: npc 380
+Aintaro command: npc 3780
+Aintaro command: npc 3790
+Aintaro command: npc 3880
+Aintaro command: npc 3879
+Aintaro command: npc 3860
+Aintaro command: npc 3852
+Aintaro command: npc 3850
+Aintaro command: npc 3851
+Aintaro command: npc 72
+Aintaro command: npc 2801
+Aintaro command: npc 1015
+Aintaro command: npc 1089
+Aintaro command: npc 1111
+Aintaro command: npc 1197
+Aintaro command: npcreset
+Aintaro command: npc 1219
+Aintaro command: npc 1218
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: npc 3666
+Aintaro command: npc 3667
+Aintaro command: npc 3665
+Aintaro command: npc 3664
+Aintaro command: npcreset
+Aintaro command: mypos
+Aintaro command: tele 2471 4830
+Aintaro command: mypos
+Aintaro command: npc 594
+Aintaro command: npc 596
+Aintaro command: tele 2485 4448
+Aintaro command: pickup 4067 1
+Aintaro command: pickup 995 1000
+Aintaro command: mypos
+Aintaro command: pickup 4067 100000
+Aintaro command: pickup 995 100000
+Aintaro command: pickup 7000 1
+Aintaro command: pickup 7001 1
+Aintaro command: pickup 6999 1
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: emote 1060
+Aintaro command: emote 1060
+Aintaro command: emote 1060
+Aintaro command: emote 1060
+Aintaro command: gfx 380
+Aintaro command: gfx 381
+Aintaro command: gfx 468
+Aintaro command: gfx 468
+Aintaro command: gfx 465
+Aintaro command: gfx 465
+Aintaro command: gfx 465
+Aintaro command: gfx 469
+Aintaro command: gfx 469
+Aintaro command: gfx 480
+Aintaro command: gfx 492
+Aintaro command: gfx 492
+Aintaro command: gfx 498
+Aintaro command: gfx 607
+Aintaro command: gfx 453
+Aintaro command: gfx 445
+Aintaro command: gfx 59
+Aintaro command: gfx 84
+Aintaro command: gfx 82
+Aintaro command: gfx 68
+Aintaro command: gfx 69
+Aintaro command: gfx 194
+Aintaro command: gfx 195
+Aintaro command: gfx 195
+Aintaro command: gfx 196
+Aintaro command: gfx 274
+Aintaro command: gfx 280
+Aintaro command: gfx 280
+Aintaro command: gfx 281
+Aintaro command: gfx 336
+Aintaro command: gfx 400
+Aintaro command: gfx 437
+Aintaro command: gfx 447
+Aintaro command: gfx 536
+Aintaro command: gfx 536
+Aintaro command: gfx 537
+Aintaro command: gfx 538
+Aintaro command: gfx 538
+Aintaro command: npc 75
+Aintaro command: vesta
+Aintaro command: npc 75
+Aintaro command: npc 51
+Aintaro command: npc 55
+Aintaro command: kick aintaro
+Aintaro command: bootall
+Aintaro command: kick aintaro
+Aintaro command: spec
+Aintaro command: wars
+Aintaro command: noclip
+Aintaro command: funpk
+Aintaro command: funfight
+Aintaro command: noclip
+Aintaro command: npc 72
+Aintaro command: npc 72
+Aintaro command: gfx 396
+Aintaro command: gfx 579
+Aintaro command: gfx 0
+Aintaro command: gfx 1
+Aintaro command: gfx 1
+Aintaro command: gfx 1
+Aintaro command: gfx 1
+Aintaro command: gfx 396
+Aintaro command: gfx 579
+Aintaro command: gfx 579
+Aintaro command: gfx 580
+Aintaro command: pickup 1645 1
+Aintaro command: pickup 8002 1
+Aintaro command: pickup 7955 1
+Aintaro command: pickup 7956 1
+Aintaro command: vesta
+Aintaro command: statius
+Aintaro command: pickup 14498 1000
+Aintaro command: tele 2091 3210
+Aintaro command: book
+Aintaro command: book
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: object 13704
+Aintaro command: object 13708
+Aintaro command: mypos
+Aintaro command: pickup 960 1
+Aintaro command: pickup 961 1000
+Aintaro command: pickup 7121 1
+Aintaro command: pickup 7121 1
+Aintaro command: pickup 6122 1
+Aintaro command: yell sorry, server will be back on in 4-5 hours, i'm just coding my source
+Aintaro command: players
+Aintaro command: yell its not supposed to be online
+Aintaro command: yell what source?
+Aintaro command: yell how to earn
+Aintaro command: yell ?
+Aintaro command: yell just be alot online, and dont be a ***
+Aintaro command: yell we getting dedi
+Aintaro command: yell so server will be online for 24-24
+Aintaro command: yell no this source is diff, normal source will be back on 4-5 hours
+Aintaro command: pickup 4487 1
+Aintaro command: yell i know its not supposed to be online, real server will be on in 4-5 hours
+Aintaro command: yell running on dedi 24-24
+Aintaro command: players
+Aintaro command: npc 75
+Aintaro command: npc 3844
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 75
+Aintaro command: npc 72
+Aintaro command: yell, yes that server will be back online in a few hours
+Aintaro command: yell i was just coding and it seems i'm hosting, its not supposed to be
+Aintaro command: yell u will have it back
+Aintaro command: yell yes all stats
+Aintaro command: yell good
+Aintaro command: players
+Aintaro command: yell i will just shut down server, cya guys real source will bb in few hours
+Aintaro command: object 72
+Aintaro command: master
+Aintaro command: bank
+Aintaro command: runes
+Aintaro command: pickup 565 10000
+Aintaro command: tele 3333 3333
+Aintaro command: xteletome test
+Aintaro command: combat 3
+Aintaro command: switch
+Test command: master
+Test command: xteletome test1
+Test command: xteletom test1
+Test command: xteletome test1
+Test command: pickup 8002 1
+Test command: combat 3
+Test command: combat 3
+Test command: xteletome test1
+Test command: combat 3
+Test command: spec
+Test command: combat 3
+Test command: combat 3
+Test command: xteletome test1
+Test command: mypk
+Test command: xteletom test1
+Test command: xteletome test1
+Test command: xteletom test1
+Test command: wars
+Test command: time
+Test command: xteletome test1
+Test command: kick test1
+Test command: kick test1
+Test1 command: master
+Test command: pickup 14498 10000
+Test command: pickup 5000 1
+Test command: combat 126
+Test command: combat 126
+Test command: combat 1
+Test command: combat 0
+Test command: combat 126
+Test command: xteletom test1
+Test command: xteletome test1
+Test command: revenantmini
+Test command: npc 1550
+Test command: npc 49
+Test command: noclip
+Test command: npc 580
+Test command: xteletome test
+Test command: xteletome test1
+Test command: xteletome test2
+Test command: combat 3
+Test1 command: combat 3
+Test command: pickup 565 10000
+Test command: pickup 560 10000
+Test command: xteleto test2
+Test command: bank
+Test command: pickup 45 16
+Test command: pickup 4516 1
+Test command: noclip
+Test command: xteletom test2
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: pickup 8002 1
+Test command: tele 2426 3076
+Test command: tele 2399 5171
+Test command: tel 2399 5171
+Test command: tele 2399 5171
+Test command: tele 2399 5171
+Test command: tele 2439 5169
+Test command: tele 1910 5366
+Test command: noclip
+Test command: xteletome test2
+Test command: kick test2
+Test command: xteletome test2
+Test command: noclip
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: pickup 4516 1
+Test command: pickup 6545 1
+Test command: pickup 4515 1
+Test command: pickup 4514 1
+Test command: xteletom test2
+Test command: xteletome test1
+Test command: xteletome test2
+Test command: xteletome test1
+Test command: clip
+Test command: nocli
+Test command: noclip
+Test command: xteletome test1
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: noclip
+Test command: xteletome test2
+Test command: xteletome test1
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: noclip
+Test command: xteletome test1
+Test command: xteletome test1
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: pickup 550 10000
+Test command: pickup 560 100
+Test command: pickup 565 100000
+Test command: pickup 555 100000
+Test command: xteletome test2
+Test command: combat 3
+Test command: noclip
+Test command: xteletome test2
+Test command: xteletome test1
+Test2 command: master
+Test command: xteletome test2
+Test command: construction
+Test command: mypos
+Test command: mypos
+Test command: constructionarea
+Test command: pickup 2477 1
+Test command: pickup 2476 1
+Test command: tele 2820 3500
+Test command: tele 2870 3530
+Test command: tele 2800 9274
+Test command: tele 2895 9674
+Test command: tele 2895 9674
+Test command: noclip
+Test command: :/test:clan
+Test command: /test:clan
+Test command: createcc test
+Test command: create cc
+Test command: createclanchat cc
+Test command: fpson
+Test command: lagg
+Test command: prefetchmusic
+Test command: lag
+Test command: ::lag
+Test command: dump
+Test command: yellow
+Test command: yellow
+Test command: yellow 222
+Test command: red
+Test command: red 11
+Test command: yellow ll
+Test command: yell l
+Test command: fpsoff
+Test command: fpson
+Test command: fpsoff
+Test command: construction
+Test command: xteletome test2
+Test command: armor
+Test command: pickup 14472 1
+Test command: pickup 6999 1
+Test command: pickup 4817 1
+Test command: pickup 4812 1
+Test command: pickup 4718 1
+Test command: pickup 4712 1
+Test command: pickup 4714 1
+Test command: pickup 4716 1
+Test command: pickup 4710 1
+Test command: pickup 4708 1
+Test command: pcikup 6585 1
+Test command: pickup 6585 1
+Test command: pickup 6525 1
+Test command: pickup 6825 1
+Test command: pickup 2414 1
+Test command: pickup 6914 1
+Test command: pickup 6910 1
+Test command: empty
+Test command: pickup 565 100000
+Test command: pickup 560 10000
+Test command: pickup 555 100000
+Test command: pickup 6908 1
+Test command: pickup 6902 1
+Test command: pickup 6900 1
+Test command: pickup 6800 1
+Test command: pickup 6815 1
+Test command: pickup 6845 1
+Test command: pickup 6540 1
+Test command: pickup 6570 1
+Test command: pickup 6580 1
+Test command: pickup 6980 1
+Test command: pickup 6940 1
+Test command: pickup 995 10000000
+Test2 command: copy test
+Test2 command: pickup 4151 1
+Test2 command: pickup 5655 1
+Test2 command: master
+Test command: xteletome test2
+Test command: tele 3088 3914
+Test command: xteletome test2
+Test command: noclip
+Test command: xteletome test2
+Test command: pickup 6999 1
+Test command: xteletome test2
+Test command: xteletome test2
+Test command: pickup 6980 1
+Test command: pickup 6970 1
+Test command: pickup 6900 1
+Test command: pickup 6965 1
+Test command: pickup 7000 1
+Test command: pickup 7500 1
+Test command: pickup 7666 1
+Test command: pickup 8000 1
+Test command: pickup 6565 1
+Test command: bank
+Test command: pickup 3706 1
+Test command: pickup 3706 1000
+Test command: pickup 6965 1
+Test command: pickup 6800 1
+Test command: pickup 6801 1
+Test command: pickup 6802 1
+Test command: pickup 6803 1
+Test command: pickup 6804 1
+Test command: pickup 6805 1
+Test command: pickup 6807 1
+Test command: pickup 6808 1
+Test command: mypos
+Test command: mypos
+Test command: object 1006
+Test command: object 1005
+Test command: mypos
+Test command: object 2465
+Test command: object 3831
+Test command: object 3838
+Test command: object 1530
+Test command: object 2469
+Test command: mypos
+Test command: tele 3564 3288
+Test command: tele 3350 3727
+Test command: object 2970
+Test command: object 2470
+Test command: object 2094
+Test command: object 2466
+Test command: noclip
+Test command: mypos
+Test command: noclip
+Test command: tele 2995 3109
+Test command: noclip
+Test command: warss
+Test command: cwarss
+Test command: noclip
+Test command: mypos
+Test command: dragon-historynewitem
+Test command: cwss
+Test command: tele 3350 3727
+Test command: cwss
+Test command: warhelp
+Test command: pickup 2480 1
+Test command: pickup 2480 1
+Test command: pickup 1856 1
+Test command: talkon selling weed
+Test command: talkon weed
+Test command: talkfoff
+Test command: talkoff
+Test command: talkoff
+Test command: talkonwed
+Test command: creatcc aintaro
+Test command: ccmake aintaro
+Test command: cm yo
+Test command: ccdelete aintaro
+Test command: deletecc aintaro
+Test command: cm ye
+Test command: mypos
+Test command: noclip
+Test command: mypos
+Test command: object 611
+Test command: object 611
+Test command: object 8333
+Test command: object 8444
+Test command: object 8777
+Test command: object 3333
+Test command: object 8333
+Test command: object 3333
+Test command: object 3331
+Test command: object 3332
+Test command: object 3332
+Test command: object 3334
+Test command: object 3335
+Test command: object 3336
+Test command: object 3337
+Test command: object 3333
+Test command: object 3334
+Test command: object 2811
+Test command: object 2999
+Test command: object 1547
+Test command: object 1244
+Test command: object 8777
+Test command: object 1244
+Test command: object 3344
+Test command: object 4566
+Test command: object 4571
+Test command: object 3111
+Test command: object 3000
+Test command: object 3214
+Test command: object 3255
+Test command: object 3777
+Test command: object 3565
+Test command: object 9222
+Test command: object 0111
+Test command: object 124
+Test command: object 124
+Test command: object 124
+Test command: object 124
+Test command: object 125
+Test command: object 126
+Test command: object 1265
+Test command: object 126
+Test command: object 127
+Test command: object 130
+Test command: object 180
+Test command: object 4444
+Test command: object 4233
+Test command: object 3414
+Test command: object 9390
+Test command: object 6009
+Test command: object 5980
+Test command: object 5979
+Test command: object 5977
+Test command: object 5632
+Test command: object 5632
+Test command: object 5499
+Test command: object 5249
+Test command: object 5179
+Test command: object 4766
+Test command: object 4766
+Test command: object 4765
+Test command: object 4266
+Test command: object 4092
+Test command: object 4090
+Test command: object 2909
+Test command: object 2908
+Test command: object 2153
+Test command: object 4765
+Test command: object 4763
+Test command: object 5980
+Test command: object 908
+Test command: object 5972
+Test command: object 7630
+Test command: object 7865
+Test command: object 7875
+Test command: object 9115
+Test command: clanwars
+Test command: guide
+Test command: clanwars
+Test command: funpk
+Test command: mypos
+Test command: empty
+Test command: frost
+Test command: frost
+Test command: frost
+Test command: wayne
+Test command: pickup 6800
+Test command: pickup 6800 1
+Test command: wayne
+Test command: pickup 1856 1
+Test command: empty
+Test command: champion
+Test command: championpoints
+Test command: points
+Test command: pickup 3503
+Test command: npc 3503
+Test command: npc 3502
+Test command: object 1306
+Test command: tele 1918 5369
+Test command: tele 1912 5367
+Test command: tele 2943 3286
+Test command: tele 2742 3443
+Test command: tele 2340 3683
+Test command: tele 2340 3683
+Test command: tele 2335 3699
+Test command: tele 3126 3356
+Test command: tele 1912 5367
+Test command: tele 3102 9307
+Test command: noclip
+Test command: tele 3126 3356
+Test command: pickup 983 1
+Test command: tele 3093 3493
+Test command: mypos
+Test command: mypos
+Aintaro command: tele 2319 9804
+Aintaro command: tele 3350 9680
+Aintaro command: noclip
+Aintaro command: tele 2393 4713
+Aintaro command: tele 1928 5002
+Aintaro command: tele 2477 4768
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: noclip
+Aintaro command: tele 2338 4747
+Aintaro command: tele 2438 5172
+Aintaro command: tele 2863 3268
+Aintaro command: tele 2937 9999
+Aintaro command: tele 2937 9999
+Aintaro command: tele 2739 9999
+Aintaro command: noclip
+Aintaro command: tele 3687 3502
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: pickup 1645 1
+Aintaro command: master
+Aintaro command: pickup 2426 1
+Aintaro command: pickup 6525 1
+Aintaro command: pickup 6587 1
+Aintaro command: pickup 6570 1
+Aintaro command: pickup 6572 1
+Aintaro command: pickup 6574 1
+Aintaro command: pickup 6568 1
+Aintaro command: pickup 6566 1
+Aintaro command: pickup 6564 1
+Aintaro command: pickup 6522 1
+Aintaro command: pickup 6524 1
+Aintaro command: pickup 6585 1
+Aintaro command: clanwars
+Aintaro command: clanwars
+Aintaro command: pickup 1568 1
+Aintaro command: npc 568
+Aintaro command: npc 1559
+Aintaro command: npc 545
+Aintaro command: npc 941
+Aintaro command: npc 1780
+Aintaro command: npc 2881
+Aintaro command: tele 2485 10159
+Aintaro command: npc 544
+Aintaro command: npc 364
+Aintaro command: npc 990
+Aintaro command: npc 1039
+Aintaro command: tele 3083 3510
+Aintaro command: tele 1911 5363
+Aintaro command: mypos
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: tele 1909 5365
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: tele 1911 5363
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: tele 1909 5363
+Aintaro command: mypos
+Aintaro command: pickup 2
+Aintaro command: empty
+Aintaro command: pickup 2 2
+Aintaro command: pickup 2894 1
+Aintaro command: showobject
+Aintaro command: mypos
+Aintaro command: tele 1909 5363
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: object 6552
+Aintaro command: object 410
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: object 1057
+Aintaro command: object 1057
+Aintaro command: noclip
+Aintaro command: mypos
+Aintaro command: object 2562
+Aintaro command: object 2562
+Aintaro command: object 2562
+Aintaro command: object 2562
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: mypos
+Aintaro command: vesta
+Aintaro command: mypk
+Aintaro command: npc 50
+Aintaro command: npc 72
+Aintaro command: npc 72
+Aintaro command: ccmake Pro pkers
+Aintaro command: ccjoin pro pkers
+Aintaro command: ccjoin aintaro
+Aintaro command: cm Working clan chat 100%  good for clan wars!
+Aintaro command: pickup 14430 1
+Aintaro command: gfx 638
+Aintaro command: gfx 500
+Aintaro command: gfx 500
+Aintaro command: gfx 500
+Aintaro command: gfx 611
+Aintaro command: gfx 643
+Aintaro command: gfx 500
+Aintaro command: pcikup 1002 1
+Aintaro command: pickup 1002 1
+Aintaro command: pickup 1002 1
+Aintaro command: pickup 1002 1
+Aintaro command: pickup 1002 1111
+Aintaro command: pickup 6700 1
+Aintaro command: pickup 6700 1000
+Aintaro command: pickup 14493 1
+Aintaro command: pickup 14471 1
+Xpressmusic command: master
+Xpressmusic command: home
+Xpressmusic command: mypos
+Xpressmusic command: empty
+Xpressmusic command: mypos
+Xpressmusic command: tele 3020 4815
+Xpressmusic command: tele 1 1
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: kick xpressmusic
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: kick xpressmusic
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: ypos
+Xpressmusic command: mypos
+Xpressmusic command: kick xpressmusic
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: pickup 995 2147000000
+Xpressmusic command: char
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: pnpc 307
+Xpressmusic command: unpc
+Xpressmusic command: mypos
+Xpressmusic command: pickup 8003 1
+Xpressmusic command: pickup 700 1
+Xpressmusic command: pickup 7001 1
+Xpressmusic command: empty
+Xpressmusic command: mypos
+Xpressmusic command: mypos
+Xpressmusic command: pnpc 2213
+Xpressmusic command: unpc
+Xpressmusic command: mypos
+Xpressmusic command: npc 584
+Xpressmusic command: mypos
+Xpressmusic command: home
+Xpressmusic command: mypos
+Xpressmusic command: tele 2242 3278
+Xpressmusic command: mypos
+Xpressmusic command: spawn 21
+Xpressmusic command: spawn 86
+Xpressmusic command: spawn 86
+Xpressmusic command: spawn 86
+Xpressmusic command: spawn 86
+Xpressmusic command: spawn 86
+Xpressmusic command: spawn 90
+Xpressmusic command: spawn 90
+Xpressmusic command: spawn 90
+Xpressmusic command: spawn 90
+Xpressmusic command: spawn 1265
+Xpressmusic command: spawn 1265
+Xpressmusic command: spawn 1265
+Xpressmusic command: spawn 1265
+Xpressmusic command: spawn 1265
+Xpressmusic command: spawn 1265
+Test command: master
+Test command: pickup 8002 1
+Test command: tele 1 1
+Test command: kick test
+Test command: kick test
+2 fast 2 fur command: empty
+2 fast 2 fur command: master
+2 fast 2 fur command: pickup 0996 999999999
+2 fast 2 fur command: silabowns
+2 fast 2 fur command: pickup 995 99999999
+2 fast 2 fur command: pickup 2581 1
+2 fast 2 fur command: item 6541 1
+2 fast 2 fur command: pickup 6541 1
+2 fast 2 fur command: pickup 6818 1
+2 fast 2 fur command: pickup 2818 1
+2 fast 2 fur command: cape
+2 fast 2 fur command: cape
+2 fast 2 fur command: emtoe
+2 fast 2 fur command: emoter
+2 fast 2 fur command: skillcape
+2 fast 2 fur command: empty
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: noclip
+2 fast 2 fur command: noclip
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: mycords
+2 fast 2 fur command: crods
+2 fast 2 fur command: cords
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: runes
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: noclip
+2 fast 2 fur command: noclip
+2 fast 2 fur command: pickup 747 1
+2 fast 2 fur command: pickup 773 1
+2 fast 2 fur command: pickup 4151 1
+2 fast 2 fur command: tele 2441 3090
+2 fast 2 fur command: mypos
+2 fast 2 fur command: mypos
+2 fast 2 fur command: npcreset
+2 fast 2 fur command: yell omg
+2 fast 2 fur command: pickup 4067 99999
+2 fast 2 fur command: pickup 995 999999999
+2 fast 2 fur command: pickup 775 1
+2 fast 2 fur command: pickup 1837 1
+2 fast 2 fur command: empty
+2 fast 2 fur command: jail 2 fast 2 fur
+2 fast 2 fur command: unjail 2 fast 2 fur
+2 fast 2 fur command: noclip
+2 fast 2 fur command: tele 3023 3208
+2 fast 2 fur command: tele 3023 3208
+2 fast 2 fur command: tele 2965 3380
+2 fast 2 fur command: train
+2 fast 2 fur command: noclip
+2 fast 2 fur command: mypos
+2 fast 2 fur command: jail 2 fast 2 fur
+2 fast 2 fur command: noclip
+2 fast 2 fur command: item 391 10
+2 fast 2 fur command: pickup 391 10
+2 fast 2 fur command: unjail 2 fast 2 fur
+2 fast 2 fur command: noclip
+2 fast 2 fur command: noclip
+2 fast 2 fur command: mypos
+2 fast 2 fur command: unjail 2 fast 2 fur
+2 fast 2 fur command: jail 2 fast 2 fur
+2 fast 2 fur command: unjail 2 fast 2 fur
+2 fast 2 fur command: frost
+2 fast command: empty
+2 fast command: frost
+2 fast command: master
+2 fast command: noclip
+2 fast command: noclip
+2 fast command: noclip
+2 fast command: noclip
+2 fast command: noclip
+2 fast command: mypos
+2 fast command: Fart
+2 fast command: fart
+2 fast command: jail 2 fast
+2 fast command: unjail 2 fast
+2 fast command: combad 1
+2 fast command: combat 1
+2 fast command: combat 300
+2 fast command: combat 0
+2 fast command: combat 1
+2 fast command: master
+2 fast command: ipban 2 fast
+2 fast command: pickup 1050 1
+2 fast command: pickup 6541 1
+2 fast command: pickup 979 1
+2 fast command: pickup 15333 1
+2 fast command: pickup 15345 1
+2 fast command: gfx 1
+2 fast command: gfx 3
+2 fast command: runes
+2 fast command: frost
+2 fast command: gfx 157
+2 fast command: pickup 14498 1
+2 fast command: item 14498 9999999
+2 fast command: pickup 8003 1
+2 fast command: pickup 7001 1
+2 fast command: pickup 7001 1
+2 fast command: pickup 8003 1
+2 fast command: pickup 3122 1
+2 fast command: pickup 2621 1
+2 fast command: pickup 6522 1
+2 fast command: pickup 1645 1
+2 fast command: pickup 464 1
+2 fast command: pickup 2034 1
+2 fast command: pickup 7100 1
+2 fast command: pickup 14492 1
+2 fast command: pickup 14430 1
+2 fast command: pickup 553 100
+2 fast command: pickup 553 1
+2 fast command: pickup 7009 1
+2 fast command: pickup 8100 1
+2 fast command: pickup 14430 1
+2 fast command: pickup 2550 1
+2 fast command: pickup 590 1
+2 fast command: object 4421
+2 fast command: pickup 4045 1
+2 fast command: pickup 526 1
+2 fast command: pickup 590 1
+2 fast command: pickup 4067 1
+2 fast command: pickup 4067 9999999
+2 fast command: pickup 7000 1
+2 fast command: pickup 6999 1
+2 fast command: pickup 6998 1
+2 fast command: statius
+2 fast command: pickup 8002 1
+2 fast command: pickup 7955 1
+2 fast command: pickup 7956 1
+2 fast command: pickup 961 1
+2 fast command: pickup 7121 1
+2 fast command: pickup 565 999
+2 fast command: pickup 5000 1
+2 fast command: construction
+2 fast command: pickup 565 9999
+2 fast command: pickup 560 9999
+2 fast command: pickup 2477 1
+2 fast command: pickup 2476 1
+2 fast command: pickup 14472 1
+2 fast command: pickup 6910 1
+2 fast command: pickup 2414 1
+2 fast command: pickup 6825 1
+2 fast command: pickup 4718 1
+2 fast command: pickup 4712 1
+2 fast command: pickup 7611 1
+2 fast command: pickup 2621 1
+2 fast command: pickup 2440 1
+2 fast command: pickup 4087 1
+2 fast command: pickup 3140 1
+2 fast command: pickup 6585 1
+2 fast command: pickup 4188 1
+2 fast command: pickup 6565 1
+2 fast command: pickup 6566 1
+2 fast command: pickup 6579 1
+2 fast command: pickup 6577 1
+2 fast command: pickup 6524 1
+2 fast command: pickup 6528 1
+I powned i command: pickup 4151 1
+I powned i command: pure
+1pot2pray3ko command: pickup 4151 1
+1pot2pray3ko command: empty
+1pot2pray3ko command: pure
+1pot2pray3ko command: lvl 0 1
+1pot2pray3ko command: frost
+1pot2pray3ko command: pickup 6528 1
+1pot2pray3ko command: pickup 6577 1
+1pot2pray3ko command: pickup 392 999999
+1pot2pray3ko command: pickup 4267 99999
+1pot2pray3ko command: combat 90
+1pot2pray3ko command: combat 76
+1pot2pray3ko command: combat 76
+1pot2pray3ko command: frost
+1pot2pray3ko command: object 2874
+2 fast command: bank
+2 fast command: pickup 392 999999
+2 fast command: bank
+2 fast command: heal
+2 fast command: spec
+2 fast command: spec
+1pot2pray3ko command: object 823
+1pot2pray3ko command: gfx 54
+1pot2pray3ko command: gfx 157
+1pot2pray3ko command: gfx 200
+1pot2pray3ko command: pickup 1231 1
+1pot2pray3ko command: pickup 5680 1
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: spec
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: dropson
+1pot2pray3ko command: dropon
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: frost
+1pot2pray3ko command: bank
+1pot2pray3ko command: bank
+1pot2pray3ko command: frost
+1pot2pray3ko command: Spec
+1pot2pray3ko command: spec
+1pot2pray3ko command: prem
+1pot2pray3ko command: premzone
+1pot2pray3ko command: prem
+1pot2pray3ko command: premium
+1pot2pray3ko command: pzone
+1pot2pray3ko command: shops
+1pot2pray3ko command: pzone
+1pot2pray3ko command: commands
+1pot2pray3ko command: help
+1pot2pray3ko command: info
+1pot2pray3ko command: command
+1pot2pray3ko command: pkstuff
+1pot2pray3ko command: pkstuff
+1pot2pray3ko command: pikup 774 1
+1pot2pray3ko command: pickup 774 1
+1pot2pray3ko command: banods
+2 fast command: bandos
+2 fast command: armadyl
+2 fast command: pickup 677 1
+2 fast command: pickup  1107 1
+2 fast command: pickyp 1107 1
+2 fast command: pickup 1077 1
+2 fast command: pickup 668 1
+2 fast command: hail
+2 fast command: book
+2 fast command: book
+2 fast command: book
+2 fast command: book2
+2 fast command: book1
+2 fast command: book
+2 fast command: tz
+2 fast command: resetdrop
+2 fast command: xpeople
+2 fast command: message hi
+2 fast command: message Hafe a nice day
+2 fast command: cwreset
+2 fast command: pkrewardz
+2 fast command: pickup 1077 1
+2 fast command: pickup 1107 1
+2 fast command: pickup 665 1
+2 fast command: pickup 666 1
+2 fast command: wayne
+2 fast command: copy 1pot2pray3ko
+2 fast command: pickup 4720 1
+2 fast command: pickup 4045 1
+2 fast command: pickup 4045 1
+2 fast command: pickup 4045 1
+2 fast command: mypos
+2 fast command: mypos
+2 fast command: emote 1654
+2 fast command: emote 245
+2 fast command: emote 80
+2 fast command: emote 342
+2 fast command: emote 346
+2 fast command: emote 347
+2 fast command: emote 275
+2 fast command: gfx 275
+2 fast command: emote 3926
+2 fast command: emote 843
+2 fast command: emote 293
+2 fast command: gfx 293
+2 fast command: emote 844
+2 fast command: emote 3543 1
+2 fast command: emote 3543
+2 fast command: emote 1120
+2 fast command: emote 3677
+2 fast command: emote 2239
+2 fast command: emote 3094
+2 fast command: emote 2239
+2 fast command: spec
+2 fast command: pickup 667 1
+2 fast command: pickup 668 1
+2 fast command: pickup 669 1
+2 fast command: pickup 665 1
+2 fast command: pickup 13450 1
+2 fast command: pickup 11694 1
+2 fast command: pickup 14484 1
+2 fast command: pickup 14486 1
+2 fast command: pickup 14485 1
+2 fast command: pickup 9813 1
+2 fast command: pickup 2402 1
+2 fast command: pickup 746 1
+2 fast command: pickup 35 1
+2 fast command: pickup 3259 1
+2 fast command: pickup 15603 1
+2 fast command: pickup 15602 1
+2 fast command: pickup 15602 1
+2 fast command: pickup 15601 1
+2 fast command: pickup 15509 1
+2 fast command: pickup 15507 1
+2 fast command: pickup 15350 1
+2 fast command: pickup 7809 1
+2 fast command: pickup 7807 1
+2 fast command: pickup 15700
+2 fast command: pickup 15700 1
+2 fast command: pickup 15701 1
+2 fast command: pickup 15702 1
+2 fast command: pickup 15703 1
+2 fast command: pickup 13665 1
+2 fast command: pickup 14471 1
+2 fast command: pickup 15604 1
+2 fast command: pickup 15704 1
+2 fast command: pickup 15705 1
+2 fast command: empty
+2 fast command: dragonset
+2 fast command: pickup 4087 1
+2 fast command: pickup 15605 1
+2 fast command: pickup 15606 1
+2 fast command: pickup 15607 1
+2 fast command: pickup 15608 1
+2 fast command: pickup 15609 1
+2 fast command: pickup 15610 1
+2 fast command: pickup 15611 1
+2 fast command: pickup 15600 1
+2 fast command: Frost
+2 fast command: frost
+2 fast command: pickup 15510 1
+2 fast command: pickup 4363 1
+2 fast command: pickup 837 1
+2 fast command: pickup 837 1
+2 fast command: pickup 881 999999
+2 fast command: pickup 2522 1
+2 fast command: pickup 2526 1
+2 fast command: pickup 9109 1
+2 fast command: pickup 4151 1
+2 fast command: pickup 8703 1
+2 fast command: pickup 4352 1
+2 fast command: pickup 5152 1
+2 fast command: pickup 1307 1
+2 fast command: pickup 1309 1
+2 fast command: pickup 9097 1
+2 fast command: pickup 1311 1
+2 fast command: pickup 1313 1
+2 fast command: pickup 4722 1
+2 fast command: pickup 4717 1
+2 fast command: pickup 4716 1
+2 fast command: pickup 2493 1
+2 fast command: pickup 1052 1
+2 fast command: pickup 6570 1
+2 fast command: npc 2745
+2 fast command: pickup 1316 1
+2 fast command: pickup 1317 1
+2 fast command: pickup 1319 1
+2 fast command: pickup 1315 1
+2 fast command: pickup 1291 1
+2 fast command: pickup 3910 1
+2 fast command: pickup 3912 1
+2 fast command: pickup 3914 1
+2 fast command: pickup 3916 1
+2 fast command: pickup 3918 1
+2 fast command: pickup 3920 1
+2 fast command: pickup 3922 1
+2 fast command: pickup 3924 1
+2 fast command: pickup 3926 1
+2 fast command: pickup 3928 1
+2 fast command: pickup 3930 1
+2 fast command: pickup 3932 1
+2 fast command: pickup 3934 1
+2 fast command: pickup 3936 1
+2 fast command: pickup 3938 1
+2 fast command: pickup 3940 1
+2 fast command: pickup 10100 1
+2 fast command: pickup 10100 1
+2 fast command: frost
+2 fast command: pickup 99641 1
+2 fast command: pickup 99641 1
+2 fast command: pickup 1285 1
+2 fast command: pickup 99641
+2 fast command: pickup 99641 1
+2 fast command: pickup 99641 1
+2 fast command: noclip
